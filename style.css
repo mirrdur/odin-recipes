@@ -1,0 +1,30 @@
+.header {
+    font: bolder;
+    font-size: 48px;
+}
+
+#bodyfont {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 24px;
+}
+
+
+#one {
+    background-color: red;
+    color: rgb(91, 13, 236);
+    outline-color: black;
+
+}
+
+#two { 
+    background-color: blue;
+    color: black;
+
+}
+
+#three {
+    background-color: rgb(173, 35, 211);
+    color: rgb(rgb(109, 102, 102);
+    font: small-caps;
+    
+}
